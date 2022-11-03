@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - [Solution](https://github.com/nathalya-ricci/frontend-mentor-qr-code-component)
-- [Live Site](https://qrcode-component-frontend-mentor.netlify.app/)
+- [Live Site](https://nathalya-ricci.github.io/frontend-mentor-qr-code-component/)
 
 ## Author
 
